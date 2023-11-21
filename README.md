@@ -18,4 +18,3 @@ I'm a Frontend Developer that currently works on ReactJS and Javascript.
 - [Telegram](https://t.me/sherrasy) (prefered method)
 - anastasia.a.merkulova@gmail.com
 
-### Here are some of my projects I'd like to share
