@@ -6,11 +6,11 @@ I'm a Frontend Developer that currently works on ReactJS and Javascript.
 
 ### Stack and Tools
 
-[![Skills I'm confident about](https://skillicons.dev/icons?i=react,js,html,css,scss,bootstrap,figma,firebase)](https://skillicons.dev) <img width='50' src="https://cdn.cdnlogo.com/logos/m/6/mobx.svg">
+[![Skills I'm confident about](https://skillicons.dev/icons?i=react,ts,js,html,css,scss,bootstrap,figma,firebase)](https://skillicons.dev) <img width='50' src="https://cdn.cdnlogo.com/logos/m/6/mobx.svg">
 
 
 ### :books: I’m currently learning:
-[![Skills I'm learning](https://skillicons.dev/icons?i=nodejs,redux,ts)](https://skillicons.dev)
+[![Skills I'm learning](https://skillicons.dev/icons?i=nodejs,redux,nestjs)](https://skillicons.dev)
 
 [![Sherrasy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherrasy&count_private=true&theme=radical&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
