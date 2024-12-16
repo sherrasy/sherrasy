@@ -11,7 +11,7 @@
 
 > Frontend
   <p>
-    <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,scss,tailwind,vite,vitest,jest,bootstrap,materialui,firebase,redux" />  
+    <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,scss,tailwind,vite,vitest,jest,firebase,redux" />  
     <img width='48' height='48' src="https://github.com/user-attachments/assets/bebf8fe4-72ac-4771-8b9f-5ed806c4e88c"/> 
     <img src="https://skillicons.dev/icons?i=bootstrap,materialui" />  
     <img width='48' height='48' src="https://camo.githubusercontent.com/f6bf5ee2b30310ad83a81212b9be69bdc2bb577f2ebe868ad89f8586b4721ffc/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e737667"/> 
