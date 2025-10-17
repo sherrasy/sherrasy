@@ -1,18 +1,17 @@
-### Приветствую 👋
+### 👋 Приветствую 
 
 Меня зовут Настя и я Frontend разработчик на React, JS и TS. Также знаю бэкенд (Nodejs, Nest), но предпочитаю разработку интерфейсов 😄
 В закрепленных репозиториях есть примеры моего кода. В ридми чаще всего приложены фото, а также есть ссылки на результат в браузере 👀
 
-| Top Langs  | GitHub stats |
-| ------------- | ------------- |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherrasy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  | [![Sherrasy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherrasy&count_private=true&theme=radical&hide=stars&hide_rank=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  |
-
+| Top Langs | GitHub stats | 📞 Связь со мной |
+|-----------|--------------|:------------------:|
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherrasy&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | [![Sherrasy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherrasy&count_private=true&theme=radical&hide=stars&hide_rank=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![Telegram](https://img.shields.io/badge/@sherrasy-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sherrasy) <br> [![GitLab](https://img.shields.io/badge/@sherrasy-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/sherrasy) <br> [![Email](https://img.shields.io/badge/anastasia.a.merkulova@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anastasia.a.merkulova@gmail.com) |
 
 ## 🛠 Мой стек технологий
 
 ### 🎨 **Frontend**
 
-| Категория          | Технологии | Сейчас изучаю :books: |
+| Категория          | Технологии | :books: Сейчас изучаю  |
 | :----------------- | :--------- |:------------- |
 | **Языки**          | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | **Фреймворки/Библиотеки** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
@@ -43,12 +42,3 @@
 | **Разработка**   | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white) |
 | **Пакеты**       | ![NPM](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=white) |
 | **Инфраструктура** | ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
-
-
-### :e-mail: Связь со мной:
-| Telegram (предпочтительнее) | Email | Gitlab |
-| ------------- | ------------- | ------------- |
-| [@sherrasy](https://t.me/sherrasy)  | anastasia.a.merkulova@gmail.com  | https://gitlab.com/sherrasy
-
-
-
