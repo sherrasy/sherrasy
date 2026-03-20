@@ -5,7 +5,7 @@
 
 | Top Langs | GitHub stats | 📞 Связь со мной |
 |-----------|--------------|:------------------:|
-| [![Top Langs](https://github-stats-sherrasy.vercel.app/api/top-langs/?username=sherrasy&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | [![Sherrasy's GitHub stats](https://github-stats-sherrasy.vercel.app/api?username=sherrasy&count_private=true&theme=radical&hide=stars&hide_rank=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![Telegram](https://img.shields.io/badge/@sherrasy-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sherrasy) <br> [![GitLab](https://img.shields.io/badge/@sherrasy-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/sherrasy) <br> [![Email](https://img.shields.io/badge/anastasia.a.merkulova@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anastasia.a.merkulova@gmail.com) |
+| [![Top Langs](./profile/top-langs.svg)](https://github.com/anuraghazra/github-readme-stats) | [![Sherrasy's GitHub stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats) | [![Telegram](https://img.shields.io/badge/@sherrasy-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sherrasy) <br> [![GitLab](https://img.shields.io/badge/@sherrasy-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/sherrasy) <br> [![Email](https://img.shields.io/badge/anastasia.a.merkulova@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anastasia.a.merkulova@gmail.com) |
 
 ## 🛠 Мой стек технологий
 
