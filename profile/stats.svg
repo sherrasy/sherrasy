@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Anastasia Merkulova&#39;s GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Commits  (last year) : 252, Total PRs: 261, Total Issues: 0, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Commits  (last year) : 254, Total PRs: 261, Total Issues: 0, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,11 +73,12 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 162.4087761519509;
+        stroke-dashoffset: 162.29360008127304;
       }
     }
   
   
+          
 
           
       /* Animations */
@@ -102,9 +103,15 @@
         </style>
 
         
+        <defs>
+          
+          
+        </defs>
+        
 
         <rect
           data-testid="card-bg"
+          class="card-bg"
           x="0.5"
           y="0.5"
           rx="4.5"
@@ -151,7 +158,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >252</text>
+      >254</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
